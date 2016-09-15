@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+I studied HTML5 and a few new tags such as <footer>,<sup> and <sub>. Also, I got an idea about how to resize images if I resize browser screen or open the window from a mobile device. I learnt about how to translate a mockup screen to an HTML page.
+* What has been easy?
+
+Finding the asociated tags to achieve the effects was easy.
+* What has been difficult?
+  
+Identifying the aspects such as font-size and font-family from the mock-up screen was difficult.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Yes. I referred to MDN and w3schools websites to research about the necessary HTML tags and designing page to adjust various screen sizes.
